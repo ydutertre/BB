@@ -71,16 +71,17 @@
 #define MAP_ALT_RANGE_ALPS      2
 
 #define MAP_ZOOM_RANGE_FIRST     0
-#define MAP_ZOOM_RANGE_250m      0
-#define MAP_ZOOM_RANGE_500m      1
-#define MAP_ZOOM_RANGE_1km       2
-#define MAP_ZOOM_RANGE_2km       3
-#define MAP_ZOOM_RANGE_4km       4
-#define MAP_ZOOM_RANGE_8km       5
-#define MAP_ZOOM_RANGE_16km      6
-#define MAP_ZOOM_RANGE_32km      7
-#define MAP_ZOOM_RANGE_64km      8
-#define MAP_ZOOM_RANGE_LAST      8
+#define MAP_ZOOM_RANGE_125m      0
+#define MAP_ZOOM_RANGE_250m      1
+#define MAP_ZOOM_RANGE_500m      2
+#define MAP_ZOOM_RANGE_1km       3
+#define MAP_ZOOM_RANGE_2km       4
+#define MAP_ZOOM_RANGE_4km       5
+#define MAP_ZOOM_RANGE_8km       6
+#define MAP_ZOOM_RANGE_16km      7
+#define MAP_ZOOM_RANGE_32km      8
+#define MAP_ZOOM_RANGE_64km      9
+#define MAP_ZOOM_RANGE_LAST      9
 
 #define LANG_EN                  0
 #define LANG_DE                  1

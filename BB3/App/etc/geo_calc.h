@@ -10,7 +10,7 @@
 
 #include "../common.h"
 
-#define MAP_DIV_CONST   53280
+#define MAP_DIV_CONST   106560
 //#define MAP_DIV_CONST   50000
 
 //single tile 3500
